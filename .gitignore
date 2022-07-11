@@ -5,6 +5,16 @@
 /.pnp
 .pnp.js
 
+
+#sanity
+medium-next/node_modules
+medium-next/.DS_Store
+medium-next/logs
+medium-next/pids
+medium-next/coverage
+medium-next/jspm_packages
+medium-next/.eslintcache
+
 # testing
 /coverage
 
