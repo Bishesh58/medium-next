@@ -4,16 +4,16 @@
 /node_modules
 /.pnp
 .pnp.js
-
-
+sanity
+/sanity
 #sanity
-medium-next/node_modules
-medium-next/.DS_Store
-medium-next/logs
-medium-next/pids
-medium-next/coverage
-medium-next/jspm_packages
-medium-next/.eslintcache
+sanity/node_modules
+sanity/.DS_Store
+sanity/logs
+sanity/pids
+sanity/coverage
+sanity/jspm_packages
+sanity/.eslintcache
 
 # testing
 /coverage
